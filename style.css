@@ -1,0 +1,32 @@
+
+body{
+    font-family: Arial, Helvetica;
+    background: #e8e8e8 ;
+
+.menu{
+    list-style:none ;
+    padding: 0;
+    background: #5d1a13df;
+    width: 9000%;
+    max-width: 6000px;
+    margin:auto;
+}
+.menu li a{
+    text-decoration: none;
+    color:white;
+    padding: 12px;
+    display:block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover { 
+    background-color: #ef8354;
+}
+}
+
+.texts{
+    font-family: "Poppins", sans-serif;
+
+ }
